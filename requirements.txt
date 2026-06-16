@@ -1,0 +1,3 @@
+pandas
+openpyxl
+# Add other dependencies as needed
