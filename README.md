@@ -1,4 +1,5 @@
 # 🏦 Trợ lý Bank Reconciliation
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/aa5a5019-1f40-42d5-a019-b8e04e4b994a" />
 
 AI Agent chuyên dụng cho việc đối chiếu sao kê ngân hàng và hạch toán kế toán.
 
